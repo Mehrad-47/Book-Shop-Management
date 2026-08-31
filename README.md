@@ -139,10 +139,7 @@ The application uses **SQLite3** for local data persistence.
 Book-Shop-Management/
 │
 ├── DataAccess/
-│   └── Database access and data management
-│
 ├── Entities/
-│   └── Application data models
 │
 ├── dashboard.py
 ├── library_panel.py
@@ -205,14 +202,14 @@ This project demonstrates practical concepts in:
 
 ## 🔮 Future Improvements
 
-* ✅ Sales reports and analytics
-* ✅ Advanced dashboard statistics
-* ✅ Barcode scanner integration
-* ✅ Book import/export
-* ✅ Low-stock notifications
-* ✅ Automated database backup
-* ✅ PDF invoice generation
-* ✅ Advanced reporting
+* 🔲 Sales reports and analytics
+* 🔲 Advanced dashboard statistics
+* 🔲 Barcode scanner integration
+* 🔲 Book import/export
+* 🔲 Low-stock notifications
+* 🔲 Automated database backup
+* 🔲 PDF invoice generation
+* 🔲 Advanced reporting
 
 ## 🤝 Contributing
 
